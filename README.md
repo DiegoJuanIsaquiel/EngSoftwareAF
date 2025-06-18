@@ -1,5 +1,5 @@
 
-# 📚 QuizComponent - Angular Learning App
+# 📚 QuizComponent - GenIQ
 
 Este componente (`QuizComponent`) é responsável por gerenciar toda a lógica de execução de quizzes dentro da aplicação, incluindo:
 
